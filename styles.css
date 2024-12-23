@@ -1,7 +1,7 @@
 /* General styles */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f6f6f6;
+    background-color: #c2550c;
     margin: 0;
     padding: 0;
     display: flex;
@@ -36,7 +36,7 @@ input {
 button {
     padding: 8px 12px;
     border: none;
-    background-color: #711e03;
+    background-color: #f81505;
     color: white;
     border-radius: 5px;
     cursor: pointer;
