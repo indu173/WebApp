@@ -3,7 +3,7 @@
 This is a simple To-Do application built using HTML, CSS, and JavaScript. It allows users to add, complete, and delete tasks in a dynamic list.
 
 ## Project Structure
-todo-app/ ├── index.html├── script.js├── styles.css
+WebApp/ ├── index.html├── script.js├── styles.css
 
 
 ## Setup
@@ -16,8 +16,8 @@ todo-app/ ├── index.html├── script.js├── styles.css
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/todo-app.git
-    cd todo-app
+    git clone https://github.com/indu173/WebApp.git
+    cd WebApp
     ```
 
 2. Open `index.html` in your web browser to start using the application.
@@ -55,8 +55,8 @@ todo-app/ ├── index.html├── script.js├── styles.css
 
 5. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/todo-app.git
-    cd todo-app
+    git clone https://github.com/indu173/WebApp.git
+    cd WebApp
     ```
 
 6. **Configure Nginx**:
